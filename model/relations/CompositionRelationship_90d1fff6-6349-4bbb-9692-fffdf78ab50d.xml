@@ -1,0 +1,13 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&amp;&amp;"
+    id="90d1fff6-6349-4bbb-9692-fffdf78ab50d"
+    documentation="Redondance">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_6cf59bed-dddd-4794-8ac1-3f64b7a1674a.xml#6cf59bed-dddd-4794-8ac1-3f64b7a1674a"/>
+  <target
+      xsi:type="archimate:Equipment"
+      href="Equipment_787b5407-6c84-4217-98df-64467c05aa60.xml#787b5407-6c84-4217-98df-64467c05aa60"/>
+</archimate:CompositionRelationship>

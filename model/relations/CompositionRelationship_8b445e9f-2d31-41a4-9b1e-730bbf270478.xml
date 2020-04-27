@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BC"
+    id="8b445e9f-2d31-41a4-9b1e-730bbf270478">
+  <source
+      xsi:type="archimate:Equipment"
+      href="Equipment_3b8db177-65e4-4259-941f-82413a2aee5d.xml#3b8db177-65e4-4259-941f-82413a2aee5d"/>
+  <target
+      xsi:type="archimate:Equipment"
+      href="Equipment_3b8db177-65e4-4259-941f-82413a2aee5d.xml#3b8db177-65e4-4259-941f-82413a2aee5d"/>
+</archimate:CompositionRelationship>

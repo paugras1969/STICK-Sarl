@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DC"
+    id="1c107afb-8c3b-422d-adf2-496f4f6c6e5c">
+  <source
+      xsi:type="archimate:Equipment"
+      href="Equipment_3b8db177-65e4-4259-941f-82413a2aee5d.xml#3b8db177-65e4-4259-941f-82413a2aee5d"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_f00f9a1d-b0ef-4547-86dd-1f7edf635a92.xml#f00f9a1d-b0ef-4547-86dd-1f7edf635a92"/>
+</archimate:AssignmentRelationship>

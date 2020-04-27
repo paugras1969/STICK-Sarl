@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AB"
+    id="1cd38ece-97f5-47de-8b28-a330a7d8c4ea">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_21728254-c400-405a-b8b3-70888e459504.xml#21728254-c400-405a-b8b3-70888e459504"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_322ec948-ae42-4c20-a40c-0fa242023295.xml#322ec948-ae42-4c20-a40c-0fa242023295"/>
+</archimate:AssignmentRelationship>

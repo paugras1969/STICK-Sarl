@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*BC"
+    id="a16d9716-6cb4-474b-b20b-179b81aa4f21">
+  <source
+      xsi:type="archimate:Equipment"
+      href="Equipment_3b8db177-65e4-4259-941f-82413a2aee5d.xml#3b8db177-65e4-4259-941f-82413a2aee5d"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_0f2bec90-1caf-4b9f-9f34-0a4da3db959e.xml#0f2bec90-1caf-4b9f-9f34-0a4da3db959e"/>
+</archimate:SpecializationRelationship>

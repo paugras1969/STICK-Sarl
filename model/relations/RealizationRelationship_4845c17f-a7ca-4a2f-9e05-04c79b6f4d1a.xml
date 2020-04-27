@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DA"
+    id="4845c17f-a7ca-4a2f-9e05-04c79b6f4d1a">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_f00f9a1d-b0ef-4547-86dd-1f7edf635a92.xml#f00f9a1d-b0ef-4547-86dd-1f7edf635a92"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_66452d21-3956-40de-abc0-930254726bd0.xml#66452d21-3956-40de-abc0-930254726bd0"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*RB"
+    id="63f3e25e-5f3f-4a0b-8fe5-525c5ba99f25">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_c092008f-cf3a-4b7a-9f9f-0ca835653f81.xml#c092008f-cf3a-4b7a-9f9f-0ca835653f81"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_0f9b36bf-a415-458f-b36d-5613e60d2926.xml#0f9b36bf-a415-458f-b36d-5613e60d2926"/>
+</archimate:SpecializationRelationship>
