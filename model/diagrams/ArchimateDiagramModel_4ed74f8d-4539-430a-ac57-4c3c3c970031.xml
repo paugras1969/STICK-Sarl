@@ -65,7 +65,7 @@
           href="AssignmentRelationship_7133d593-b43c-4f24-8413-c3710fb5819d.xml#7133d593-b43c-4f24-8413-c3710fb5819d"/>
     </sourceConnections>
     <bounds
-        x="137"
+        x="60"
         y="108"
         width="120"
         height="55"/>
@@ -971,8 +971,8 @@
       textAlignment="1"
       content="Ajouter la capacité à modelise les concessions demandées permettant d'expliquer les écart à une exigences  notamment sur les exigences d'interface ">
     <bounds
-        x="36"
-        y="195"
+        x="881"
+        y="30"
         width="218"
         height="96"/>
   </children>
